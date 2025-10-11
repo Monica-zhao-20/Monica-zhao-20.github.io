@@ -20,6 +20,3 @@
 		}
 	]
 }
-git add list_data.json
-git commit -m "Add JSON data list for table"
-git push
